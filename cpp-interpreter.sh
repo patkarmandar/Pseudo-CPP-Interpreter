@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Source: https://github.com/itspatkar/Pseudo-CPP-Interpreter
-# Author: @itspatkar (https://itspatkar.github.io/)
+# Source: https://github.com/patkarmandar/Pseudo-CPP-Interpreter
+# Author: @patkarmandar (https://patkarmandar.github.io/)
 # License: GPL-3.0
 
 code(){
